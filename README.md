@@ -1,2 +1,2 @@
 # Caro-usa-el-git
-caro aprende a usar el git porfa
+caro usa el git :C uwu
